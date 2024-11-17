@@ -1,0 +1,6 @@
+[book]
+authors = ["Gugle"]
+language = "zh"
+multilingual = false
+src = "src"
+title = "RTOS 技术生存服务器"
